@@ -7,7 +7,7 @@
 # Hello World!👋🏻<br> I'm Dhimas Indra Maulana.
 
 <div align="center" >
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=00FF00&center=true&width=435&lines=Web+Developer;Cybersecurity+Enthusiast;DevSecOps+Practitioner;Linux+User;Red+Team+Member;Ethical+Hacking;Penetration+Tester;UI%2FUX+Designer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=00FF00&center=true&width=435&lines=Web+Developer;CTF;DevSecOps;Purple+Team+Member;Alternate+Reality+Game;PenTest;" alt="Typing SVG" /></a>
 </div>
 
 ## 📌 About Me
