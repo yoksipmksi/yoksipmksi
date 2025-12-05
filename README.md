@@ -7,7 +7,7 @@
 # Hello World!👋🏻<br> I'm Dhimas Indra Maulana.
 
 <div align="center" >
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=00FF00&center=true&width=435&lines=Web+Developer;CTF;DevSecOps;Purple+Team+Member;Alternate+Reality+Game;PenTest;" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=00FF00&center=true&width=435&lines=Web+Developer;CTF;DevSecOps;Purple+Team;Alternate+Reality+Game;PenTest;" alt="Typing SVG" /></a>
 </div>
 
 ## 📌 About Me
@@ -16,10 +16,8 @@
 const aboutMe = {
   name: "Dhimas Indra Maulana",
   location: "Ponorogo, Indonesia🦚❤️🤍",
-  education: "Student / SMKN 1 Jenangan Ponorogo",
-  fields: ["Web Development", "Designer", "WordPress", "Cyber Scurity", "UI/UX"],
-  currentFocus: "Enhancing my skills in frontend and backend development to build dynamic and responsive web applications.",
-  funFact: "Coding is fun. But coding with a DevSecOps twist? Even more exciting!"
+  education: "Student / Muhammadiyah University of Ponorogo",
+  fields: ["ARG", "CTF", "Purple Team", "CS"],
 };
 ```
 
