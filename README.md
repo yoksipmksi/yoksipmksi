@@ -2,10 +2,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=yoksipmksi.yoksipmksi&left_text=views"  />
 </div>
 
-<div>
- <img src="https://profile-counter.glitch.me/yoksipmksi/count.svg?" />
-</div>
-
 ###
 
 # Hello World!👋🏻<br> I'm Dhimas Indra Maulana.
