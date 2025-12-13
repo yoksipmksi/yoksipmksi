@@ -59,7 +59,7 @@ const aboutMe = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yoksipmksi.yoksipmksi&left_text=views"  />
   
   <p>Thanks for visiting! Hope to collaborate soon! 😄</p>
 </div>
