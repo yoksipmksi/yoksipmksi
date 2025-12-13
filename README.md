@@ -1,3 +1,7 @@
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yoksipmksi.yoksipmksi&left_text=views"  />
+</div>
+
 <div>
  <img src="https://profile-counter.glitch.me/yoksipmksi/count.svg?" />
 </div>
@@ -59,8 +63,6 @@ const aboutMe = {
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yoksipmksi.yoksipmksi&left_text=views"  />
-  
   <p>Thanks for visiting! Hope to collaborate soon! 😄</p>
 </div>
 
