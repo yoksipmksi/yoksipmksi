@@ -3,6 +3,8 @@
 </div>
 
 ###
+  
+# Hello World!👋🏻<br> I'm Dhimas Indra Maulana.
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yoksipmksi&utm_content=line">
   <img
@@ -11,9 +13,6 @@
     height="120"
   />
 </a>
-  
-
-# Hello World!👋🏻<br> I'm Dhimas Indra Maulana.
 
 <!-- <div align="center" >
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=00FF00&center=true&width=435&lines=CTF;DevSecOps;Purple+Team;Alternate+Reality+Game;PenTest;" alt="Typing SVG" /></a>
