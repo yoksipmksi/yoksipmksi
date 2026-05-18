@@ -4,7 +4,7 @@
 
 # Hello World!👋🏻, I'm Dhimas Indra Maulana.
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 <table>
   <tr>
     <td>
