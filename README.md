@@ -24,8 +24,8 @@
 const aboutMe = {
   name: "Dhimas Indra Maulana",
   location: "Ponorogo, Indonesia🦚❤️🤍",
-  education: "Student / Muhammadiyah University of Ponorogo",
-  fields: ["ARG", "CTF", "Purple Team", "CS"],
+  education: "Student / UMPO",
+  fields: ["ARG", "CTF", "DigiForns"],
 };
 ```
 
