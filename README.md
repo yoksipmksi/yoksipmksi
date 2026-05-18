@@ -19,7 +19,7 @@
     <td>
       <a href="https://git.io/streak-stats">
         <img 
-          src="https://streak-stats.demolab.com?user=yoksipmksi&locale=id" 
+          src="[https://streak-stats.demolab.com?user=yoksipmksi&locale=id](https://streak-stats.demolab.com?user=yoksipmksi&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph)" 
           width="450"
           height="200"
           alt="GitHub Streak" 
