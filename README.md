@@ -5,6 +5,13 @@
 # Hello World!👋🏻, I'm Dhimas Indra Maulana.
 
 ![](./profile-3d-contrib/profile-night-green.svg)
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31wxeyrx3ds2ble6nw3rg6b2ybw4">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31wxeyrx3ds2ble6nw3rg6b2ybw4&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
 <table>
   <tr>
     <td>
@@ -29,11 +36,7 @@
   </tr>
 </table>
 
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yoksipmksi/yoksipmksi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yoksipmksi/yoksipmksi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YOkSipMksi/YOkSipMksi/output/pacman-contribution-graph.svg">
-</picture> -->
+###
 <img src="https://raw.githubusercontent.com/yoksipmksi/yoksipmksi/output/snake.svg" alt="Snake animation" />
 
 ###
