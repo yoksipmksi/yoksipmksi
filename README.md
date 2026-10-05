@@ -139,7 +139,7 @@ Slot kosong buat ide yang belum lahir. Punya proyek seru? Ayo bikin bareng.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%" />
+<img src="https://raw.githubusercontent.com/yoksipmksi/yoksipmksi/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%" />
 
 <sub>Ular ini makan commit-ku. Tolong kasih makan ular ini.</sub>
 
