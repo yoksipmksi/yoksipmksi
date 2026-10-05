@@ -153,8 +153,8 @@ Slot kosong buat ide yang belum lahir. Punya proyek seru? Ayo bikin bareng.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&bg_color=0a0c21&title_color=a855f7&icon_color=00ff88&text_color=e5e7eb" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&bg_color=0a0c21&title_color=a855f7&text_color=e5e7eb" alt="langs" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yoksipmksi&show_icons=true&hide_border=true&bg_color=0a0c21&title_color=a855f7&icon_color=00ff88&text_color=e5e7eb" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoksipmksi&layout=compact&hide_border=true&bg_color=0a0c21&title_color=a855f7&text_color=e5e7eb" alt="langs" />
 
 </div>
 
