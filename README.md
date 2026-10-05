@@ -5,10 +5,10 @@
 </picture>
 </p>
 <p align="center">
-<img alt="ventoyy system-scan visual" src="https://www.gitskins.com/api/section/system-scan?username=yoksipmksi&amp;theme=github-dark&amp;style=aura&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F111753249%3Fu%3Da49e0cac50d520021bde133ee5fac3b76121db95%26v%3D4&amp;v=showcase-system-scan-2">
-</p>
-<p align="center">
-<img alt="ventoyy projects visual" src="https://www.gitskins.com/api/section/projects?username=yoksipmksi&amp;theme=github-dark&amp;style=aura&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F111753249%3Fu%3Da49e0cac50d520021bde133ee5fac3b76121db95%26v%3D4&amp;v=showcase-projects-3">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=yoksipmksi&amp;theme=neon&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F111753249%3Fu%3Da49e0cac50d520021bde133ee5fac3b76121db95%26v%3D4&amp;repos=yoksipmksi%2Fyoksipmksi.github.io%2Cyoksipmksi%2Fyoksipmksi%2Cyoksipmksi%2Fframework-php-josjis-v2-mid-high-%2Cyoksipmksi%2Fframework-php-josjis-v1-low-mid-%2Cyoksipmksi%2Fdate-tiket&amp;v=oss-projects-1&amp;mode=light">
+  <img width="860" alt="ventoyy maintainer repositories" src="https://www.gitskins.com/api/section/projects?username=yoksipmksi&amp;theme=neon&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F111753249%3Fu%3Da49e0cac50d520021bde133ee5fac3b76121db95%26v%3D4&amp;repos=yoksipmksi%2Fyoksipmksi.github.io%2Cyoksipmksi%2Fyoksipmksi%2Cyoksipmksi%2Fframework-php-josjis-v2-mid-high-%2Cyoksipmksi%2Fframework-php-josjis-v1-low-mid-%2Cyoksipmksi%2Fdate-tiket&amp;v=oss-projects-1&amp;mode=dark">
+</picture>
 </p>
 <p align="center">
 <img alt="ventoyy stack visual" src="https://www.gitskins.com/api/section/stack?username=yoksipmksi&amp;theme=github-dark&amp;style=aura&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F111753249%3Fu%3Da49e0cac50d520021bde133ee5fac3b76121db95%26v%3D4&amp;v=showcase-stack-4">
